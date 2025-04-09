@@ -17,7 +17,9 @@ A lightweight, custom-built microkernel designed to run on QEMU. This microkerne
   All necessary libraries are included—no additional installs required.
 
 ## 📁 File Overview
+
 - Place Holder Overview
+
 | File Name         | Description |
 |------------------|-------------|
 | `kernel.c`        | Entry point and core logic for microkernel boot and runtime scheduling. |
